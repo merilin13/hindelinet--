@@ -7,12 +7,10 @@
             Console.WriteLine("Hello, World!");
             int a = 100;
             int b = 200;
-            
-            /* check the boolean condition */
+               
             if (a == 100)
             {
-
-                /* if condition is true then check the following */
+               
                 if (b == 200)
                 {
                     /* if condition is true then print the following */
